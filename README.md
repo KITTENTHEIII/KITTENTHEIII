@@ -12,5 +12,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KITTENTHEIII&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=KITTENTHEIII&icon=0&color=0)](https://visitcount.itsvg.in)
+### Donations
+
+`41wNWLTaU9UA84mnLDs62qMiHgpt5hbhg72ttDPXEsCw4xRsjbsVJeJHb4A6DDSRJ6cMrZmnxzid8Joz9JorzNx6JMnnKvY`
