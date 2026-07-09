@@ -14,4 +14,5 @@
 
 ### Donations
 
+**XMR:**
 `41wNWLTaU9UA84mnLDs62qMiHgpt5hbhg72ttDPXEsCw4xRsjbsVJeJHb4A6DDSRJ6cMrZmnxzid8Joz9JorzNx6JMnnKvY`
