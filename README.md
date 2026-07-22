@@ -23,13 +23,7 @@
 `bc1qdpqaudfp6wdnd33x28yxyfe7c3h3we8020mnjj`
 
 **LTC (Litecoin):**
-`LTy8RQzEceopANEg5P2Ge3K6PUNksEVb3J`
-
-**USDC (Base network):**
-`0xe610fFBa72509eFD5713435998C2bE6f120BB212`
-
-**ETH (Ethereum network)**
-`0xe610fFBa72509eFD5713435998C2bE6f120BB212`
+`ltc1q6hcm9qkpsl0pltvv5xh4g8gpgys93vlv2y3xg3`
 
 **XMR (Monero)**
 `41wNWLTaU9UA84mnLDs62qMiHgpt5hbhg72ttDPXEsCw4xRsjbsVJeJHb4A6DDSRJ6cMrZmnxzid8Joz9JorzNx6JMnnKvY`
